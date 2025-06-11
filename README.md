@@ -1,4 +1,4 @@
 # PixelPulse-Display
 PixelPulse Display
 
-![PixelPulse Video](media/pixelpulse.mp4)
+![PixelPulse Video](media/pixelplus.mp4)
